@@ -1,0 +1,36 @@
+.navbar-wrapper{
+    background-color:#2D25A0;
+}
+
+.navbar-nav a{
+    color: #ffff;
+    padding: 0 28px;
+}
+.navbar-nav a:hover{
+    background-color: orangered;
+    border-radius: 5px;
+}
+.banner-wrapper{
+    background-color: #2D25A0;
+}
+.button-text{
+   text-align: right;
+}
+.title{
+    font-weight: bold;
+}
+
+
+.footer-sec{
+    text-align: center;
+}
+
+
+
+
+@media only screen and (max-width:688px){
+    .watch-btn{
+        text-align: center;
+    }
+    
+}
